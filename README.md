@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Chauhan</h1>
 <h3 align="center">A passionate fullstack web developer, efficient in MERN stack. Explores AI/ML on side...</h3>
 
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1697453573297?e=1736380800&v=beta&t=irKEAsnXS10vq7Aee25YxXLMDC6430F9VdRiNRRh4GM" alt="v1sh4lc" style="width:100%;"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v1sh4lc&label=Profile%20views&color=0e75b6&style=flat" alt="v1sh4lc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v1sh4lc" alt="v1sh4lc" /></a> </p>
