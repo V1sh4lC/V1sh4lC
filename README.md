@@ -23,9 +23,9 @@
     </tr>
   </table>
 
-![](https://github-profile-trophy.vercel.app/?username=V1sh4lC&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<!--![](https://github-profile-trophy.vercel.app/?username=V1sh4lC&theme=radical&no-frame=true&no-bg=false&margin-w=4)-->
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vishalc02447756) 
+[![X](https://img.shields.io/badge/Follow%20me%20on%20twitter-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/vishalc02447756) 
 
 - 💬 Ask me about **javascript and reactjs**
 
