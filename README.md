@@ -28,7 +28,8 @@
 [![X](https://img.shields.io/badge/Follow%20me%20on%20twitter-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/vishalc02447756) 
 
 - 💬 Ask me about **javascript and reactjs**
-
+- Learning `nextjs`, `typescript`, `webSockets`.
+- Building **coDuel**.
 - 📫 How to reach me **vishalmessi550@gmail.com**
 
 ## 🌐 Socials:
